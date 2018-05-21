@@ -16,6 +16,9 @@ A simple recipe app that allows user to search for recipes using available ingre
 * User able to add and submit recipes
 * User able to rate and review recipes
 
+## Screenshots
+![](https://raw.githubusercontent.com/avitus80/WhatsCookin/master/screenshots/Screenshot_20180521-114340.png) ![](https://raw.githubusercontent.com/avitus80/WhatsCookin/master/screenshots/Screenshot_20180521-114355.png) ![](https://raw.githubusercontent.com/avitus80/WhatsCookin/master/screenshots/Screenshot_20180521-114403.png)
+
 ## Built with
 
 * React (version 16.3.1)
